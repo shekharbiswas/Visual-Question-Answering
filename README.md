@@ -42,7 +42,7 @@ $ git clone https://github.com/SatyamGaba/visual_question_answering.git
 #### 2. Download and unzip the dataset from official url of VQA: https://visualqa.org/download.html.
 We have used VQA2 in for this project
 ```bash
-$ cd visual_question_answering/utils
+$ cd visual_question_answering/utilities
 $ chmod +x download_and_unzip_datasets.csh
 $ ./download_and_unzip_datasets.csh
 ```
